@@ -25,5 +25,5 @@ def image_to_csv(image_path, csv_path):
     print(f"CSV file save at {csv_path}")
 
 image_path = "D:\git\Projects\Python\Image_to_CSV\image_to_Csv\heightmap.png"
-csv_path = "output.csv"
+csv_path = "Output.csv"
 image_to_csv(image_path, csv_path)
